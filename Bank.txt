@@ -1,0 +1,13 @@
+Bank Sector :-
+
+{"Name":"SBI","Returns":"74.25"}
+{"Name":"IndusInd Bank","Returns":"44.26"}
+{"Name":"Axis Bank","Returns":"43.28"}
+{"Name":"ICICI Bank","Returns":"41.48"}
+{"Name":"Kotak Mahindra Bank","Returns":"32.04"}
+{"Name":"PNB","Returns":"26.03"}
+{"Name":"HDFC Bank","Returns":"16.85"}
+{"Name":"YES Bank","Returns":"13.51"}
+{"Name":"IDBI Bank","Returns":"8.65"}
+{"Name":"Bandhan Bank","Returns":"3.52"}
+

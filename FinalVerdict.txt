@@ -1,0 +1,7 @@
+Final Verdict :- 
+
+{"Sector":"Power","AverageReturns":67.753}
+{"Sector":"Auto","AverageReturns":51.96900000000001}
+{"Sector":"Bank","AverageReturns":30.387}
+{"Sector":"IT","AverageReturns":19.845}
+

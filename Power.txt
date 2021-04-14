@@ -1,0 +1,13 @@
+Power Sector :-
+
+{"Name":"Adani Transmission","Returns":"203.08"}
+{"Name":"Adani Power","Returns":"150.28"}
+{"Name":"Tata Power","Returns":"77.34"}
+{"Name":"JSW Energy","Returns":"64.62"}
+{"Name":"Adani Green Energy","Returns":"58.28"}
+{"Name":"Torrent Power","Returns":"34.28"}
+{"Name":"Power Grid Corporation of India","Returns":"30.10"}
+{"Name":"NTPC","Returns":"21.72"}
+{"Name":"SJVN","Returns":"19.67"}
+{"Name":"NHPC","Returns":"18.16"}
+

@@ -1,0 +1,13 @@
+IT Sector :-
+
+{"Name":"L&T Technology Service","Returns":"48.59"}
+{"Name":"MindTree","Returns":"29.34"}
+{"Name":"Larsen & Toubro Infotech","Returns":"26.42"}
+{"Name":"Infosys","Returns":"20.67"}
+{"Name":"MphasiS","Returns":"19.83"}
+{"Name":"Tech Mahindra","Returns":"15.39"}
+{"Name":"Wipro","Returns":"11.44"}
+{"Name":"TCS","Returns":"9.82"}
+{"Name":"HCL Technologies","Returns":"9.22"}
+{"Name":"Oracle Fin","Returns":"7.73"}
+

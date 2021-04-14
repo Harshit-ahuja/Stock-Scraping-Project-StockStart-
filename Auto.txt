@@ -1,0 +1,13 @@
+Auto Sector :-
+
+{"Name":"Tata Motors","Returns":"125.84"}
+{"Name":"HMT","Returns":"101.03"}
+{"Name":"Escorts","Returns":"78.91"}
+{"Name":"Ashok Leyland","Returns":"56.02"}
+{"Name":"Hero MotoCorp","Returns":"49.31"}
+{"Name":"M&M","Returns":"29.20"}
+{"Name":"Maruti Suzuki","Returns":"29.01"}
+{"Name":"TVS Motor","Returns":"19.29"}
+{"Name":"Bajaj Auto","Returns":"18.72"}
+{"Name":"Eicher Motors","Returns":"12.36"}
+
